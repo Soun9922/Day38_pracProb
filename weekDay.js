@@ -15,5 +15,5 @@ function weekDayDisplay(num){
         console.log("It's Sunday")
     }
 }
-var numDay = 7
+var numDay = 5
 weekDayDisplay(numDay)
